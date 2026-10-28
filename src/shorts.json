@@ -1,0 +1,52 @@
+[
+  {
+    "id": "selected-short-01",
+    "title": "JBL蓝牙耳机",
+    "en": "SHORT FILM",
+    "category": "短视频",
+    "cover": "/media/shorts/selected-short-01.webp",
+    "video": "/media/shorts/selected-short-01.mp4",
+    "alt": "JBL蓝牙耳机视频封面",
+    "text": ""
+  },
+  {
+    "id": "selected-short-02",
+    "title": "vivo手机",
+    "en": "SHORT FILM",
+    "category": "短视频",
+    "cover": "/media/shorts/selected-short-02.webp",
+    "video": "/media/shorts/selected-short-02-web.mp4",
+    "alt": "vivo手机视频封面",
+    "text": ""
+  },
+  {
+    "id": "selected-short-03",
+    "title": "口播日常",
+    "en": "SHORT FILM",
+    "category": "短视频",
+    "cover": "/media/shorts/selected-short-03.webp",
+    "video": "/media/shorts/selected-short-03.mp4",
+    "alt": "口播日常视频封面",
+    "text": ""
+  },
+  {
+    "id": "selected-short-04",
+    "title": "拼多多",
+    "en": "SHORT FILM",
+    "category": "短视频",
+    "cover": "/media/shorts/selected-short-04.webp",
+    "video": "/media/shorts/selected-short-04-web.mp4",
+    "alt": "拼多多视频封面",
+    "text": ""
+  },
+  {
+    "id": "selected-short-05",
+    "title": "洗地机横测",
+    "en": "SHORT FILM",
+    "category": "短视频",
+    "cover": "/media/shorts/selected-short-05.webp",
+    "video": "/media/shorts/selected-short-05-web.mp4",
+    "alt": "洗地机横测视频封面",
+    "text": ""
+  }
+]

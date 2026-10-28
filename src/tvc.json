@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tvc-01",
+    "title": "中兴自由屏-新助手",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-01.webp",
+    "video": "/media/tvc/tvc-01-web.mp4",
+    "alt": "中兴自由屏-新助手视频封面",
+    "text": ""
+  },
+  {
+    "id": "tvc-02",
+    "title": "AI家庭系列",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-02.webp",
+    "video": "/media/tvc/tvc-02-web.mp4",
+    "alt": "AI家庭系列视频封面",
+    "text": ""
+  },
+  {
+    "id": "tvc-03",
+    "title": "GH5安装手册",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-03.webp",
+    "video": "/media/tvc/tvc-03-web.mp4",
+    "alt": "GH5安装手册视频封面",
+    "text": ""
+  },
+  {
+    "id": "tvc-04",
+    "title": "努比亚Z70",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-04.webp",
+    "video": "/media/tvc/tvc-04-web.mp4",
+    "alt": "努比亚Z70视频封面",
+    "text": ""
+  },
+  {
+    "id": "tvc-05",
+    "title": "中兴远航60 Plus",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-05.webp",
+    "video": "/media/tvc/tvc-05-web.mp4",
+    "alt": "中兴远航60 Plus视频封面",
+    "text": ""
+  },
+  {
+    "id": "tvc-06",
+    "title": "中兴自由屏-新室友",
+    "en": "TVC COMMERCIAL",
+    "category": "TVC广告",
+    "cover": "/media/tvc/tvc-06.webp",
+    "video": "/media/tvc/tvc-06-web.mp4",
+    "alt": "中兴自由屏-新室友视频封面",
+    "text": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "promo-01",
+    "title": "长沙自贸谷招商宣传片",
+    "en": "PROMOTIONAL FILM",
+    "category": "宣传片",
+    "cover": "/media/promos/promo-01.webp",
+    "video": "/media/promos/promo-01-web.mp4",
+    "alt": "长沙自贸谷招商宣传片视频封面",
+    "text": ""
+  },
+  {
+    "id": "promo-02",
+    "title": "广州5GA宣传片",
+    "en": "PROMOTIONAL FILM",
+    "category": "宣传片",
+    "cover": "/media/promos/promo-02.webp",
+    "video": "/media/promos/promo-02.mp4",
+    "alt": "广州5GA宣传片视频封面",
+    "text": ""
+  },
+  {
+    "id": "benying-factory",
+    "title": "BENYING工厂宣传片",
+    "en": "PROMOTIONAL FILM",
+    "category": "宣传片",
+    "cover": "/media/promos/benying-factory.webp",
+    "video": "/media/promos/benying-factory-web.mp4",
+    "alt": "BENYING工厂宣传片视频封面",
+    "text": ""
+  }
+]

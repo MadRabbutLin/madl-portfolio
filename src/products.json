@@ -1,0 +1,42 @@
+[
+  {
+    "id": "product-01",
+    "title": "U12宣传",
+    "en": "PRODUCT FILM",
+    "category": "产品类",
+    "cover": "/media/products/product-01.webp",
+    "video": "/media/products/product-01-web.mp4",
+    "alt": "U12宣传视频封面",
+    "text": ""
+  },
+  {
+    "id": "product-02",
+    "title": "A12",
+    "en": "PRODUCT FILM",
+    "category": "产品类",
+    "cover": "/media/products/product-02.webp",
+    "video": "/media/products/product-02-web.mp4",
+    "alt": "A12视频封面",
+    "text": ""
+  },
+  {
+    "id": "product-03",
+    "title": "T5开箱",
+    "en": "PRODUCT FILM",
+    "category": "产品类",
+    "cover": "/media/products/product-03.webp",
+    "video": "/media/products/product-03-web.mp4",
+    "alt": "T5开箱视频封面",
+    "text": ""
+  },
+  {
+    "id": "product-04",
+    "title": "U12开箱",
+    "en": "PRODUCT FILM",
+    "category": "产品类",
+    "cover": "/media/products/product-04.webp",
+    "video": "/media/products/product-04-web.mp4",
+    "alt": "U12开箱视频封面",
+    "text": ""
+  }
+]
